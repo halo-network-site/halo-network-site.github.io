@@ -8,13 +8,14 @@ h1,h2,h3,h4,h5 {
     font-weight: normal;
 }
 
-a{
-    color:#000;
+a.s-link{
+    color:#cc8c00;
     transition: all 0.2s ease;
+    font-weight: bold;
 }
-a:hover{
+a.s-link:hover{
     color:#444;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 #main .row {
