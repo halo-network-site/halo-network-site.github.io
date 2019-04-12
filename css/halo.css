@@ -39,7 +39,7 @@ a.s-link:hover{
     bottom: 0;
     right:50%;
     background: url(../images/logo.png);
-    background-size: 70%;
+    background-size: 100%;
     background-position: center center;
     background-repeat:no-repeat;
     transition: all 0.2s ease;
@@ -158,7 +158,7 @@ a.s-link:hover{
         bottom: 40vh;
         right:0;
         background: url(../images/logo.png);
-        background-size: 70%;
+        background-size: 100%;
         background-position: center center;
         background-repeat:no-repeat; 
     }
